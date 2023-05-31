@@ -1,1 +1,1 @@
-# My-Projects
+# Store Locator App
